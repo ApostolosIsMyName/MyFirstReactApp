@@ -1,4 +1,18 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  align-items: center;
+}
+h1 {
+  color: lightskyblue;
+}
+a,
+span,
+div {
+  color: azure;
+  margin: 15px;
 }
